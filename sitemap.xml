@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>qnumerics.org/cirriculum/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>visit/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>qnumerics.org/seminars/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>cirriculum/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>qnumerics.org/publications/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>seminars/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>qnumerics.org/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>publications/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>qnumerics.org/hiring/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>qnumerics.org/contact/index.html</loc>
-    <lastmod>2024-02-17</lastmod>
+    <loc>hiring/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
